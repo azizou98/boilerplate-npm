@@ -3,9 +3,11 @@
 	"author": "AITMOUSSA ABDELAZIZ",
 	"description": "A project that does something boom",
 	"license": "MIT",
+	"version": "1.2.0",
 	"keywords": [ "descriptive", "node backend", "api dev","freecodecamp" ],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
